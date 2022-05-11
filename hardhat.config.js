@@ -18,4 +18,10 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
  */
 module.exports = {
   solidity: "0.8.4",
+  networks: {
+   rinkeby: {
+     url: "https://rinkeby.infura.io/v3/ba900937b83f4883b926713999277b1f", //Infura url with projectId
+     accounts: ["123456789101112131415"] // add the account that will deploy the contract (private key)
+    },
+  }
 };
