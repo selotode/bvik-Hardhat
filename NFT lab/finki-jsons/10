@@ -1,0 +1,29 @@
+{
+ "name": "FINKI NFT #10",
+ "image": "https://gateway.pinata.cloud/ipfs/Qmet5EtoLK2Zjcw2SoyMvM1SkLDuBYnDBprCxUdYmwB5iK/10.jpg",
+ "description": "Space Owl",
+ "attributes": [
+  {
+    "trait_type": "Name",
+    "value": "Image 10"
+  },
+  {
+    "trait_type": "Colors",
+    "value": "Black"
+  },
+  {
+    "trait_type": "Paint",
+    "value": "Pencil"
+  },
+  {
+      "display_type": "boost_percentage", 
+      "trait_type": "White", 
+      "value": 0
+   }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Black", 
+      "value": 100
+    }  
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "name": "FINKI NFT #3",
+ "image": "https://gateway.pinata.cloud/ipfs/Qmet5EtoLK2Zjcw2SoyMvM1SkLDuBYnDBprCxUdYmwB5iK/3.jpg",
+ "description": "Samurai v Demon",
+ "attributes": [
+  {
+    "trait_type": "Name",
+    "value": "Image 3"
+  },
+  {
+    "trait_type": "Colors",
+    "value": "Red, Black"
+  },
+  {
+    "trait_type": "Paint",
+    "value": "Pencil"
+  },
+  {
+      "display_type": "boost_percentage", 
+      "trait_type": "Red", 
+      "value": 10
+   }, 
+   {
+      "display_type": "boost_percentage", 
+      "trait_type": "Green", 
+      "value": 0
+    },
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Blue", 
+      "value": 0
+    },  
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Black", 
+      "value": 90
+    }  
+ ]
+}

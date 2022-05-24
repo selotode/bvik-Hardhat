@@ -25,7 +25,7 @@ module.exports = {
   solidity: "0.8.4",
   networks: {
 	hardhat: {
-    chainId: 31337
+    chainId: 4
   },
    rinkeby: {
      url: "https://rinkeby.infura.io/v3/caf7a70d1ca2492e8bbceed1cc45cde3",

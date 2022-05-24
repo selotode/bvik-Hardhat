@@ -1,0 +1,36 @@
+{
+ "name": "FINKI NFT #2",
+ "image": "https://gateway.pinata.cloud/ipfs/Qmet5EtoLK2Zjcw2SoyMvM1SkLDuBYnDBprCxUdYmwB5iK/2.jpg",
+ "description": "Blue Flower",
+ "attributes": [
+  {
+    "trait_type": "Name",
+    "value": "Image 2"
+  },
+  {
+    "trait_type": "Colors",
+    "value": "Red, Blue"
+  },
+  {
+    "trait_type": "Paint",
+    "value": "Marker"
+  },
+  {
+      "display_type": "boost_percentage", 
+      "trait_type": "Red", 
+      "value": 10
+   }, 
+   {
+      "display_type": "boost_percentage", 
+      "trait_type": "Green", 
+      "value": 0
+    },
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Blue", 
+      "value": 90
+    },  
+
+
+ ]
+}
